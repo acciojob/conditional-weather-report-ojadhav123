@@ -17,4 +17,3 @@ function WeatherDisplay({ weather }) {
 }
 
 export default WeatherDisplay;
-
